@@ -5,7 +5,7 @@
   "status": "publication_pending",
   "files": {
     "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
-    "README.md": "f96f880585eb3cace993d8e93dae6ca3c809fe0c7396cfd2643dd0e59200250e",
+    "README.md": "329e32a23205cfb05e48fe40aa1e8b0aeabf76531240de11c942585931daaef2",
     "examples/batch-output.jsonl": "fd813cb6fb9cc1fff6ecba2e671a595938440125b802aa9dbead7a222cb5d085",
     "examples/batch.jsonl": "9521f274777a8629bfa0043f55832363a2b14cd5c9d597c7cb40c8395410d352",
     "examples/request.json": "a38523afecfea30cd01d7e545690cd89826115b1118a6c783a78b31696c81275",
