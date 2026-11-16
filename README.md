@@ -25,6 +25,11 @@ unique example prefix, runs SingleRecord at concurrency one, and cleans its mode
 after compute stops. Its small S3 input/output objects are retained for inspection.
 Neither path creates a bucket or IAM role. No CI/CD is used.
 
+For the seller's own certified source, the preflight verifies its actual Catalog
+association with the Limited/Public product and Released offer. This owner-only
+path is a seller rehearsal, not an independent buyer subscription or checkout
+test. Ordinary subscribed packages use their Marketplace identity path.
+
 ## Inputs and actual outputs
 
 - [Single request](examples/request.json) and [actual AWS response](examples/response.json).

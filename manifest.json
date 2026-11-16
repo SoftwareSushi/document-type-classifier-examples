@@ -10,6 +10,6 @@
     "examples/batch.jsonl": "9521f274777a8629bfa0043f55832363a2b14cd5c9d597c7cb40c8395410d352",
     "examples/request.json": "a38523afecfea30cd01d7e545690cd89826115b1118a6c783a78b31696c81275",
     "examples/response.json": "40b309837f708f0ab03063b92e84658ccfc3e2c060c7b42fed79177d2738271a",
-    "notebooks/assisted-document-suggestions.ipynb": "8fc5784f30e333f4545b90368d2a8795709ba654cb0f760bfada7d46eb8f2730"
+    "notebooks/assisted-document-suggestions.ipynb": "e934b57dbb69e47d49a3ab155b75a252346e703020c263038cec6c2ed2b57b79"
   }
 }
