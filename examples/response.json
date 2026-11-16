@@ -1,0 +1,29 @@
+{
+  "predictions": [
+    {
+      "id": "final-en-bank_statement-01",
+      "suggestions": [
+        {
+          "rank": 1,
+          "document_type": "bank_statement"
+        },
+        {
+          "rank": 2,
+          "document_type": "other"
+        }
+      ],
+      "needs_review": true,
+      "selection_required": true,
+      "input_tokens": 103,
+      "analyzed_codepoints": 399,
+      "truncated": false,
+      "whole_document_coverage": "unknown",
+      "input_scope": "one_document_from_supported_types",
+      "unknown_mixed_detection": "not_provided",
+      "model": "document-type-classifier",
+      "version": "1.0.0",
+      "validation_basis": "generated_only",
+      "independent_acceptance_rows": 0
+    }
+  ]
+}
