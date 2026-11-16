@@ -4,11 +4,11 @@ Public integration examples for Software Sushi's assisted 1.0 model. It offers
 two possible types for a person reviewing already extracted English, Spanish or
 Portuguese business text. A person must choose or reject the suggestions.
 
-**Marketplace publication is pending.** The exact image completed private AWS
-technical qualification; owner review approved the scope, sources/limitations
-and USD0.50 per instance-hour with a fourteen-day software trial. AWS infrastructure
-is separate, including during trial. Check [current release status](https://ss-document-media-637423513289-us-east-1.s3.us-east-1.amazonaws.com/document-type-classifier/1.0.0/status.html)
-before looking for a subscription. This repository is not a live offer.
+**[Available on AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-abuc7lbqsoab4).** Software is USD 0.50 per
+ml.c5.xlarge instance-hour, with a fourteen-day software trial. AWS infrastructure
+is separate, including during trial. The current Marketplace offer is authoritative.
+The complete notebook passed actual real-time and batch execution in the seller
+account; independent buyer checkout is not measured.
 
 ## Try the notebook
 

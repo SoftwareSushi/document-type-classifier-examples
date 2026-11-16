@@ -2,14 +2,15 @@
   "model": "document-type-classifier",
   "version": "1.0.0",
   "image_digest": "sha256:58d7c9ad8b9f56f1ccb2f313cc9380327a7e45d91a5af4dd972b7ea34d9da89b",
-  "status": "publication_pending",
+  "status": "published",
   "files": {
     "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
-    "README.md": "329e32a23205cfb05e48fe40aa1e8b0aeabf76531240de11c942585931daaef2",
+    "README.md": "cdfafece2bb8fc8c2427956f9ba4eedf17ce4a510d8ff091c66524cfd8b3e90a",
     "examples/batch-output.jsonl": "fd813cb6fb9cc1fff6ecba2e671a595938440125b802aa9dbead7a222cb5d085",
     "examples/batch.jsonl": "9521f274777a8629bfa0043f55832363a2b14cd5c9d597c7cb40c8395410d352",
     "examples/request.json": "a38523afecfea30cd01d7e545690cd89826115b1118a6c783a78b31696c81275",
     "examples/response.json": "40b309837f708f0ab03063b92e84658ccfc3e2c060c7b42fed79177d2738271a",
-    "notebooks/assisted-document-suggestions.ipynb": "e934b57dbb69e47d49a3ab155b75a252346e703020c263038cec6c2ed2b57b79"
-  }
+    "notebooks/assisted-document-suggestions.ipynb": "c1d2464a186cc359d7e262f14ec22bd7ee809bcc0ac2f842376d330d5f49b69b"
+  },
+  "marketplace_url": "https://aws.amazon.com/marketplace/pp/prodview-abuc7lbqsoab4"
 }
